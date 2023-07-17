@@ -1,5 +1,0 @@
-theme = "terminal"
-
-[params]
-    themeColor="green"
-    centerTheme=true
